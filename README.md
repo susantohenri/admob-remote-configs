@@ -1,0 +1,1 @@
+# admob-remote-configs
