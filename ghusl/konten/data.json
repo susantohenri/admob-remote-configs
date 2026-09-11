@@ -1,0 +1,236 @@
+[
+  {
+    "kode": "sebab-sebab-mandi-wajib",
+    "judul_konten": "Sebab-sebab Mandi Wajib",
+    "deskripsi_konten": "Daftar kondisi yang mewajibkan mandi (junub, haid, nifas, dll)",
+    "slide_show": [
+      {
+        "kode_slide": "haid-menstruasi",
+        "judul_slide": "Haid (menstruasi)",
+        "gambar": "haid-menstruasi.webp",
+        "text": "Haid adalah darah yang keluar dari rahim wanita dalam kondisi sehat, bukan karena sakit atau melahirkan. Ini adalah siklus alami yang Allah tetapkan bagi wanita.",
+        "arab": "إِذَا أَقْبَلَتِ الْحَيْضَةُ فَدَعِي الصَّلَاةَ، وَإِذَا أَدْبَرَتْ فَاغْتَسِلِي وَصَلِّي",
+        "latin": "Idzā aqbalatil-ḥaiḍatu fa da'īṣ-ṣalāh, wa idzā adbarat faghtasilī wa ṣallī",
+        "terjemah": "Apabila haid datang, tinggalkanlah sholat. Dan apabila haid telah berhenti, mandilah kemudian sholatlah",
+        "sumber": "HR. Bukhari",
+        "suara": "haid-menstruasi.mp3"
+      }
+    ]
+  },
+  {
+    "kode": "mandi-wajib-non-junub",
+    "judul_konten": "Mandi Wajib Non-Junub",
+    "deskripsi_konten": "Kategori khusus: haid, nifas, masuk Islam, jenazah",
+    "slide_show": [
+      {
+        "kode_slide": "",
+        "judul_slide": "",
+        "prompt_gambar": "",
+        "text": "",
+        "arab": "",
+        "latin": "",
+        "terjemah": "",
+        "sumber": "",
+        "suara": ""
+      }
+    ]
+  },
+  {
+    "kode": "rukun-mandi-wajib",
+    "judul_konten": "Rukun Mandi Wajib",
+    "deskripsi_konten": "Hal wajib agar mandi sah",
+    "slide_show": [
+      {
+        "kode_slide": "",
+        "judul_slide": "",
+        "prompt_gambar": "",
+        "text": "",
+        "arab": "",
+        "latin": "",
+        "terjemah": "",
+        "sumber": "",
+        "suara": ""
+      }
+    ]
+  },
+  {
+    "kode": "sunnah-mandi-wajib",
+    "judul_konten": "Sunnah Mandi Wajib",
+    "deskripsi_konten": "Hal dianjurkan, tidak wajib",
+    "slide_show": [
+      {
+        "kode_slide": "",
+        "judul_slide": "",
+        "prompt_gambar": "",
+        "text": "",
+        "arab": "",
+        "latin": "",
+        "terjemah": "",
+        "sumber": "",
+        "suara": ""
+      }
+    ]
+  },
+  {
+    "kode": "fiqih-hukum-mandi-wajib",
+    "judul_konten": "Fiqih & Hukum",
+    "deskripsi_konten": "Pembahasan hukum detail dan perbedaan pendapat ulama",
+    "slide_show": [
+      {
+        "kode_slide": "",
+        "judul_slide": "",
+        "prompt_gambar": "",
+        "text": "",
+        "arab": "",
+        "latin": "",
+        "terjemah": "",
+        "sumber": "",
+        "suara": ""
+      }
+    ]
+  },
+  {
+    "kode": "panduan-lengkap-mandi-wajib",
+    "judul_konten": "Panduan Lengkap",
+    "deskripsi_konten": "Tata cara mandi: rukun + sunnah + adab",
+    "slide_show": [
+      {
+        "kode_slide": "",
+        "judul_slide": "",
+        "prompt_gambar": "",
+        "text": "",
+        "arab": "",
+        "latin": "",
+        "terjemah": "",
+        "sumber": "",
+        "suara": ""
+      }
+    ]
+  },
+  {
+    "kode": "panduan-cepat-mandi-wajib",
+    "judul_konten": "Panduan Cepat",
+    "deskripsi_konten": "Tata cara mandi versi ringkas, asal sah",
+    "slide_show": [
+      {
+        "kode_slide": "",
+        "judul_slide": "",
+        "prompt_gambar": "",
+        "text": "",
+        "arab": "",
+        "latin": "",
+        "terjemah": "",
+        "sumber": "",
+        "suara": ""
+      }
+    ]
+  },
+  {
+    "kode": "niat-doa-mandi-wajib",
+    "judul_konten": "Niat & Doa",
+    "deskripsi_konten": "Lafal niat sesuai kondisi (junub, haid, nifas, dll)",
+    "slide_show": [
+      {
+        "kode_slide": "",
+        "judul_slide": "",
+        "prompt_gambar": "",
+        "text": "",
+        "arab": "",
+        "latin": "",
+        "terjemah": "",
+        "sumber": "",
+        "suara": ""
+      }
+    ]
+  },
+  {
+    "kode": "larangan-saat-mandi-wajib",
+    "judul_konten": "Larangan Ketika Mandi",
+    "deskripsi_konten": "Hal yang dihindari selama proses mandi berlangsung",
+    "slide_show": [
+      {
+        "kode_slide": "",
+        "judul_slide": "",
+        "prompt_gambar": "",
+        "text": "",
+        "arab": "",
+        "latin": "",
+        "terjemah": "",
+        "sumber": "",
+        "suara": ""
+      }
+    ]
+  },
+  {
+    "kode": "larangan-sebelum-mandi-wajib",
+    "judul_konten": "Larangan Sebelum Mandi",
+    "deskripsi_konten": "Hal yang dihindari selama masih berhadats besar",
+    "slide_show": [
+      {
+        "kode_slide": "",
+        "judul_slide": "",
+        "prompt_gambar": "",
+        "text": "",
+        "arab": "",
+        "latin": "",
+        "terjemah": "",
+        "sumber": "",
+        "suara": ""
+      }
+    ]
+  },
+  {
+    "kode": "kondisi-khusus-mandi-wajib",
+    "judul_konten": "Kondisi Khusus",
+    "deskripsi_konten": "Sakit, traveling, lansia/disabilitas - tayamum sebagai pengganti",
+    "slide_show": [
+      {
+        "kode_slide": "",
+        "judul_slide": "",
+        "prompt_gambar": "",
+        "text": "",
+        "arab": "",
+        "latin": "",
+        "terjemah": "",
+        "sumber": "",
+        "suara": ""
+      }
+    ]
+  },
+  {
+    "kode": "menunda-mandi-wajib",
+    "judul_konten": "Menunda Mandi Wajib",
+    "deskripsi_konten": "Hukum dan konsekuensi menunda mandi wajib",
+    "slide_show": [
+      {
+        "kode_slide": "",
+        "judul_slide": "",
+        "prompt_gambar": "",
+        "text": "",
+        "arab": "",
+        "latin": "",
+        "terjemah": "",
+        "sumber": "",
+        "suara": ""
+      }
+    ]
+  },
+  {
+    "kode": "mengajari-anak-baligh",
+    "judul_konten": "Mengajari Anak Baligh",
+    "deskripsi_konten": "Panduan untuk orang tua menjelaskan ke anak baru baligh",
+    "slide_show": [
+      {
+        "kode_slide": "",
+        "judul_slide": "",
+        "prompt_gambar": "",
+        "text": "",
+        "arab": "",
+        "latin": "",
+        "terjemah": "",
+        "sumber": "",
+        "suara": ""
+      }
+    ]
+  }
+]
