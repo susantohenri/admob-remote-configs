@@ -1,9 +1,9 @@
 
 {
   "appOpenAdUnitId": "",
-  "bannerAdUnitId": "ca-app-pub-1012224604632017/4856374842",
-  "interstitialAdUnitId": "ca-app-pub-1012224604632017/8604048169",
+  "bannerAdUnitId": "ca-app-pub-3360913653749022/4323415977",
+  "interstitialAdUnitId": "ca-app-pub-3360913653749022/5848872750",
   "rewardedAdUnitId": "",
   "nativeAdUnitId": "",
-  "isAdsEnabled": false
+  "isAdsEnabled": true
 }
